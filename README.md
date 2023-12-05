@@ -1,8 +1,20 @@
-# React + Vite
+# React To Do App 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# map() method
+* The map() method of Array instances creates a new array populated with the results of calling a provided function on every element in the calling array. 
+* It calls a provided callbackFn function once for each element in an array and constructs a new array from the results.
 
-Currently, two official plugins are available:
+The function is called with the following arguments:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+element
+
+    The current element being processed in the array.
+index
+
+    The index of the current element being processed in the array.
+array
+
+    The array map() was called upon.
+
+ 
+ 
